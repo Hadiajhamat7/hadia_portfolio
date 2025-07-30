@@ -1,3 +1,7 @@
+<!-- Move this ABOVE your script.js -->
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script src="js/script.js"></script>
+
 document.addEventListener('DOMContentLoaded', function () {
     // Detect and print current URL for debugging
     const currentURL = window.location.href;
