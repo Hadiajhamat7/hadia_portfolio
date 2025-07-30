@@ -56,7 +56,7 @@ header {
 .hero {
     position: relative;
     height: 100vh;
-    background-image: url("hero.jpg"); /* adjust path if needed */
+    background-image: url("../images/hero.jpg"); /* adjust path if needed */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
